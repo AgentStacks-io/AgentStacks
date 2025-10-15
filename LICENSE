@@ -1,4 +1,14 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
+## 📜 License
+
+                    AgentStacks is dual-licensed:
+                  - **AGPL-3.0** for open-source use
+        - **Commercial License** for proprietary/SaaS deployments
+
+See [LICENSE](LICENSE) and [LICENSE.COMMERCIAL](LICENSE.COMMERCIAL.md)
+
+
+
+                  GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
