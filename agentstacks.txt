@@ -1,0 +1,10 @@
+
+APP_NAME="AgentStacks"
+BINARY_NAME="agentstacks"
+ORG_NAME="asio"
+
+Github:  AgentStacks-io
+ASVSC repo:  https://github.com/AgentStacks-io/vscode.git
+AgentStacks repo:  https://github.com/AgentStacks-io/AgentStacks.git
+
+URL: https://www.agentstacks.io/
